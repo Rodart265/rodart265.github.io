@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.rodart.bajetiyanga",
+        "sha256_cert_fingerprints": ["42:EE:A3:45:26:76:10:D5:D4:04:0D:71:BA:BD:A2:1A:67:F5:26:38:2D:6E:DD:C4:88:7B:F6:AF:18:0E:C7:45"]
+      }
+    }]
