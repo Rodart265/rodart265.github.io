@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bajeti Yanga Privacy Policy</title>
+<meta name="description" content="How Bajeti Yanga collects, uses and protects your data. Published by Rodart Creatives, Malawi.">
+<meta name="theme-color" content="#176B78">
+<link rel="icon" href="/bajeti-yanga/icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F3F6F8;--card:#fff;--title:#102840;--body:#555;--line:#E5ECF1;--shadow:0 2px 12px rgba(23,107,120,.08);--cr:18px;--cr-md:12px}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1719;--card:#172226;--title:#e6eef0;--body:#a9bbc1;--line:#2a3a3f;--shadow:none}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--body);font:16px/1.5 "Hanken Grotesk",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:640px;margin:0 auto;padding-bottom:40px}
+header{background:linear-gradient(135deg,#142F4B,#176B78);padding:24px 20px 22px}
+.back{display:inline-flex;align-items:center;gap:5px;background:rgba(255,255,255,.15);border:1.5px solid rgba(255,255,255,.25);color:#fff;text-decoration:none;border-radius:var(--cr);padding:7px 14px;font-weight:700;font-size:.78rem;margin-bottom:16px}
+.back .i{width:14px;height:14px}
+.head{display:flex;align-items:center;gap:11px}
+.badge{width:42px;height:42px;border-radius:var(--cr-md);background:rgba(255,255,255,.15);border:1.5px solid rgba(255,255,255,.25);display:flex;align-items:center;justify-content:center;flex-shrink:0;color:#fff}
+h1{margin:0 0 2px;font-size:1.25rem;font-weight:800;color:#fff;line-height:1.25}
+.sub{margin:0;font-size:.7rem;color:rgba(255,255,255,.7)}
+main{padding:20px}
+.intro{font-size:.82rem;line-height:1.65;margin:0 0 16px}
+.chips{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:18px}
+.chip{display:inline-flex;align-items:center;gap:5px;border-radius:var(--cr);padding:5px 12px 5px 9px;font-size:.7rem;font-weight:700;color:var(--c);background:color-mix(in srgb,var(--c) 8%,transparent);border:1px solid color-mix(in srgb,var(--c) 21%,transparent)}
+.chip .i{width:12px;height:12px}
+.card{background:var(--card);border-radius:var(--cr);padding:6px 18px;box-shadow:var(--shadow)}
+.sec{display:flex;gap:12px;padding:14px 0;border-bottom:1px solid var(--line)}
+.sec:last-child{border-bottom:0}
+.ico{width:34px;height:34px;border-radius:var(--cr-md);background:color-mix(in srgb,var(--c) 10%,transparent);color:var(--c);display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.ico .i{width:17px;height:17px}
+.sec>div:last-child{flex:1;min-width:0}
+h2{margin:0 0 5px;font-size:.86rem;font-weight:800;color:var(--title)}
+.sec p{margin:0;font-size:.78rem;line-height:1.65}
+a{color:#176B78}@media (prefers-color-scheme:dark){a{color:#5cc0cf}}
+strong{color:var(--title)}
+footer{text-align:center;font-size:.7rem;margin-top:18px;opacity:.8}
+</style></head>
+<body><div class="wrap">
+<header>
+<a class="back" href="/bajeti-yanga/"><svg class="i" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg> Back to app</a>
+<div class="head"><div class="badge"><svg class="i" width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg></div>
+<div><h1>Privacy Policy</h1><p class="sub">Last updated: November 2026 · Rodart Creatives, Malawi</p></div></div>
+</header>
+<main>
+<p class="intro">Bajeti Yanga is a household budgeting app. This page explains what the app collects, why, and what you can do about it. The same text is available inside the app under Profile, Privacy Policy.</p>
+<div class="chips"><div class="chip" style="--c:#176B78"><svg class="i" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg><span>Encrypted storage</span></div><div class="chip" style="--c:#E65100"><svg class="i" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="m4.9 4.9 14.2 14.2"/></svg><span>No data selling</span></div><div class="chip" style="--c:#2E7D32"><svg class="i" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h18"/><path d="M19 6v14c0 1-1 2-2 2H7c-1 0-2-1-2-2V6"/><path d="M8 6V4c0-1 1-2 2-2h4c1 0 2 1 2 2v2"/><line x1="10" x2="10" y1="11" y2="17"/><line x1="14" x2="14" y1="11" y2="17"/></svg><span>Delete anytime</span></div></div>
+<div class="card">
+<section class="sec" style="--c:#1565C0"><div class="ico"><svg class="i" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></svg></div><div><h2>1. Data We Collect</h2><p>We collect your email address for authentication, your household financial entries (income, expenses, budgets), and device information for app functionality. If you allow notifications, we also keep an address for your device, used only to send you reminders and household alerts.</p></div></section>
+<section class="sec" style="--c:#00695C"><div class="ico"><svg class="i" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg></div><div><h2>2. How We Use Your Data</h2><p>Your data is used exclusively to provide the budgeting features. When you use an AI feature, the app sends that request to Google's Gemini service through our own server. It can include your chat message, member names, your budget and recent spending figures, and any receipt photo you scan. We do not keep these requests ourselves; Google processes them under its own terms.</p></div></section>
+<section class="sec" style="--c:#176B78"><div class="ico"><svg class="i" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></div><div><h2>3. Data Storage &amp; Security</h2><p>All data is stored in Google Firebase Firestore with enforced security rules. Only authenticated members of your household can access your data in the app. Authorised Bajeti Yanga staff may view account and household information when needed to provide support and keep the service running. Data is encrypted in transit and at rest.</p></div></section>
+<section class="sec" style="--c:#E65100"><div class="ico"><svg class="i" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div><div><h2>4. Data Sharing</h2><p>We do not sell or rent your personal data and we do not share it with advertisers. Data is shared with household members who have your household code, and with the services that run the app: Google (Firebase for sign-in, storage and notifications, Gemini for AI features) and PayChangu for Premium payments.</p></div></section>
+<section class="sec" style="--c:#2E7D32"><div class="ico"><svg class="i" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21.801 10A10 10 0 1 1 17 3.335"/><path d="m9 11 3 3L22 4"/></svg></div><div><h2>5. Your Rights &amp; Account Deletion</h2><p>You may delete your account at any time via Settings. Your data is kept for 30 days in case you change your mind, then permanently erased. Payment records are kept as required for financial record-keeping. You can also export your data as CSV.</p></div></section>
+<section class="sec" style="--c:#2F5D8A"><div class="ico"><svg class="i" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg></div><div><h2>6. Contact</h2><p>Questions or deletion requests? Email <strong><a href="mailto:rodartcreatives@gmail.com">rodartcreatives@gmail.com</a></strong> or WhatsApp <strong>+265 888 029 029</strong>.</p></div></section>
+</div>
+<footer>© Rodart Creatives · Bajeti Yanga</footer>
+</main></div></body></html>
